@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DankMemeCreator</string>
+    <string name="dank_meme_bro">Dank Meme Bro</string>
+    <string name="app_version">Version 1.1</string>
+    <string name="camera">Camera</string>
+    <string name="go_to_gallery">Go to Gallery</string>
+</resources>
